@@ -3,5 +3,26 @@
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 18px;
+  text-align: center;
+  padding: 2rem 5%;
 }
 
+h1 {
+  font-weight: 500;
+  font-size: 3rem;
+}
+
+h2 {
+  font-weight: 500;
+  font-size: 3rem;
+}
+
+img {
+  max-width: 100%;
+  max-height: 95vh;
+  margin-bottom: 2rem;
+}
+
+section {
+  margin-bottom: 10rem;
+}
